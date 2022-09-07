@@ -7,8 +7,10 @@ tab1, tab2, tab3 = st.tabs(['사용신청', '사용이력', '통계'])
 with tab1:
     st.subheader('사용신청')
 
+
 with tab2:
     st.subheader('사용이력')
+
 
 with tab3:
     st.subheader('통계')
